@@ -1,4 +1,4 @@
-# # Cryptocurrency Clusters
+## Cryptocurrency Clusters
 
 ### Data Preparation
 
